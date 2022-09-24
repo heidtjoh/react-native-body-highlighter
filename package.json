@@ -19,12 +19,12 @@
     "test": "jest"
   },
   "dependencies": {
-    "ramda": "^0.26.1",
-    "react-native-svg": "^13.1.0"
+    "ramda": "^0.26.1"
   },
   "peerDependencies": {
     "react": "*",
-    "react-native": "*"
+    "react-native": "*",
+    "react-native-svg": "*"
   },
   "devDependencies": {
     "@types/jest": "^24.0.15",
@@ -33,6 +33,7 @@
     "@types/react-native": "^0.60.2",
     "jest": "^24.8.0",
     "react-native-typescript-transformer": "^1.2.12",
-    "typescript": "^3.5.3"
+    "typescript": "^3.5.3",
+    "react-native-svg": "^13.1.0"
   }
 }
